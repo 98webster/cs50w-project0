@@ -6,3 +6,5 @@ Este proyecto tendra
 1. Varias paginas html.
 2. Usara Sass para crear los archivos css.
 3. Utilizara bootstrap para responsividad.
+
+Prueba de modificar desde github
